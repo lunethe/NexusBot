@@ -1,8 +1,8 @@
 # NexusBot - The Best Edgenuity Bot and Automation Tool 🚀
 Nexus is a fully customizable Edgenuity bot and automation tool, designed to advance through your classes with ease and perfect scores. It has features like auto answer for questions, skipping Edgenuity videos, auto assignments, an advanced AI system for writing activities, and much more!
 
-👉 Check out our website at [nexusbot.net](https://nexusbot.net) for more info!
-👉 Join the [Nexus Discord](https://discord.gg/nexusbot) for updates, support, and community presets!
+- Check out our website at [nexusbot.net](https://nexusbot.net) for more info!
+- Join the [Nexus Discord](https://discord.gg/nexusbot) for updates, support, and community presets!
 
 ![nexus-banner](https://github.com/user-attachments/assets/eb84b158-4e94-467f-88d9-086eacefc254)
 
@@ -46,7 +46,7 @@ https://github.com/user-attachments/assets/fdd833b5-fcae-4a92-962b-3ca84fc39a12
 7. Copy and paste this link: [https://api.nexusbot.net/nexus.user.js](https://api.nexusbot.net/nexus.user.js) and press Save.
 8. Go to the dashboard where all of your classes are shown, and the menu should ask you for your license key. Copy and paste the entire key, including Nexus-
 
-### Troubleshooting 🔧
+### Troubleshooting
 - The menu is not showing up.
   - If on computer, make sure that Developer Mode is enabled in your browser's extensions page.
   - Try restarting your browser and/or device.
@@ -78,6 +78,7 @@ A: Yes! All purchases include lifetime updates and access to new features.
 - Development by **Luck**.  
 - Inspired by other Edgenuity projects: EdgyPro, Revolt, and Exodus. ❤️
 
+## Disclaimer
 Nexus is not affiliated with, endorsed by, or associated with Edgenuity, EdgeEx, or Imagine Learning. Any references are for descriptive and compatibility purposes only.
 Use of this software may violate the Terms of Service of the online platforms it interacts with. By continuing, you accept full responsibility for any consequences.
 
