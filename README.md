@@ -35,7 +35,7 @@ https://github.com/user-attachments/assets/fdd833b5-fcae-4a92-962b-3ca84fc39a12
 5. Go to the dashboard where all of your classes are shown, and the menu should ask you for your license key. Copy and paste the entire key, including Nexus-
 
 ### iPhone/iPad Tutorial
-🎥 [Video Tutorial]([https://streamable.com/lcj3fo](https://youtu.be/CD08NKz9sOE))
+🎥 [Video Tutorial](https://youtu.be/CD08NKz9sOE)
 
 1. Install the Focus app from the App Store.
 2. Open Focus.
