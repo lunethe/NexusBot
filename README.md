@@ -2,6 +2,9 @@
 Nexus is a fully customizable Edgenuity bot and automation tool, designed to advance through your classes with ease and perfect scores. It has features like auto answer for questions, skipping Edgenuity videos, auto assignments, an advanced AI system for writing activities, and much more!
 
 Check out our website at https://nexusbot.net for more info!
+Join the [Nexus Discord](https://discord.gg/nexusbot) for updates, support, and community presets!  
+
+![showcase](https://framerusercontent.com/assets/AUpt31zzGcpUTZJxXWMT7pzXmo.mp4)
 
 ## Features ⭐  
 - **Auto Advance**: Automatically progress through activities, quizzes, and lessons with custom delays.  
