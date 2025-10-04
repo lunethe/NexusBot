@@ -7,6 +7,10 @@ Nexus is a powerful **Edgenuity bot** built to help students save time and strea
 
 ![nexus-banner](https://github.com/user-attachments/assets/eb84b158-4e94-467f-88d9-086eacefc254)
 
+## Showcase
+
+https://github.com/user-attachments/assets/fdd833b5-fcae-4a92-962b-3ca84fc39a12
+
 ---
 
 ## What is Nexus?  
