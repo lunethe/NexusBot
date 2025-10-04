@@ -1,6 +1,8 @@
 # Nexus - Best Edgenuity Bot and Tool 🚀
 Nexus is a fully customizable Edgenuity bot and automation tool, designed to advance through your classes with ease and perfect scores. It has features like auto answer for questions, skipping Edgenuity videos, auto assignments, an advanced AI system for writing activities, and much more!
 
+**Works on EdgeEx! :)**
+
 - Check out our website at [nexusbot.net](https://nexusbot.net) for more info!
 - Join the [Nexus Discord](https://discord.gg/nexusbot) for updates, support, and community presets!
 
