@@ -1,74 +1,87 @@
-# Nexus – The #1 Edgenuity Bot & Automation Tool 🚀  
+# Nexus - Best Edgenuity Bot and Tool 🚀
+Nexus is a fully customizable Edgenuity bot and automation tool, designed to advance through your classes with ease and perfect scores. It has features like auto answer for questions, skipping Edgenuity videos, auto assignments, an advanced AI system for writing activities, and much more!
 
-Nexus is a powerful **Edgenuity bot** built to help students save time and streamline their online classes. With smart automation, AI writing assistance, and productivity tools, Nexus makes completing assignments and progressing through lessons easier than ever.  
+**Works on EdgeEx! :)**
 
-👉 Visit our site: [nexusbot.net](https://nexusbot.net)  
-👉 Join the community: [Discord](https://discord.gg/nexusbot)  
+- Check out our website at [nexusbot.net](https://nexusbot.net) for more info!
+- Join the [Nexus Discord](https://discord.gg/nexusbot) for updates, support, and community presets!
 
 ![nexus-banner](https://github.com/user-attachments/assets/eb84b158-4e94-467f-88d9-086eacefc254)
 
 ## Showcase
-
 https://github.com/user-attachments/assets/fdd833b5-fcae-4a92-962b-3ca84fc39a12
 
----
-
-## What is Nexus?  
-
-Nexus is a fully customizable **automation tool for Edgenuity** and EdgeEx. It’s designed for students who want more control over their online learning. Nexus automates repetitive tasks, speeds up course navigation, and provides AI tools to help with writing assignments, quizzes, and activities.  
-
----
-
 ## Features ⭐  
+- **Auto Advance**: Automatically progress through activities, quizzes, and lessons with custom delays.  
+- **Auto Submit**: Submits quizzes, tests, and assignments for you, with second, minute, or 10-minute delay options.  
+- **Auto Answer**: Achieve perfect scores on assessments with Nexus’s AI answer system.
+- **Auto Assignments**: Automatically completes assignments, labs, and vocab activities.
+- **Skip Videos**: Bypass Edgenuity videos, intros, and outros instantly.
+- **AI Writing System**: Generate essays, journals, and open-response assignments with natural-sounding AI text. Includes AI humanizer for maximum authenticity.  
+- **Interactive Skipper**: Skips drag-and-drop activities, math proofs, and virtual labs.  
+- **Language Activity Skipper**: Bypass language mini-games and speaking tasks.  
+- **Discord Logging**: Send real-time updates of your course activity to your private Discord channel.  
+- **Customization**: Custom backgrounds, fonts, and privacy tools to hide your info while using Nexus.  
+- **Presets & Config Sharing**: Save your own configs or import community-made presets from Discord.  
+- **Anti-Logout**: Prevents you from being logged out automatically.
 
-- **Auto Advance & Auto Submit** – Move through lessons and assessments with customizable pacing and timing.  
-- **Auto Answer System** – Get instant answers to quizzes and assignments.  
-- **AI Writing Assistant** – Generate natural essays, journals, and open-response activities with built-in AI humanizer.  
-- **Video Skipper** – Skip through Edgenuity videos, intros, and outros.  
-- **Activity Automation** – Complete vocab, labs, drag-and-drop, and language activities faster.  
-- **Customization** – Change backgrounds, fonts, and privacy tools for a better learning experience.  
-- **Discord Integration** – Track your class progress in real time.  
+## Getting Started 🚀
 
----
+### Computer/Laptop Tutorial
+🎥 [Video Tutorial](https://streamable.com/lcj3fo)
 
-## Why Students Use Nexus  
+1. Go to your browser's extensions page. Enable Developer Mode at the top right.
+2. Add the Tampermonkey browser extension.
+3. If using Chrome, go back to the extensions page, find Tampermonkey, and click Details. Scroll down, and enable Allow User Scripts.
+4. Download the Nexus script [here](https://api.nexusbot.net/nexus.user.js), by pressing Install when prompted.
+5. Go to the dashboard where all of your classes are shown, and the menu should ask you for your license key. Copy and paste the entire key, including Nexus-
 
-- ✅ Saves time on repetitive assignments  
-- ✅ Helps boost grades and accuracy  
-- ✅ Works on both computer and mobile  
-- ✅ Updated regularly with new features  
+### iPhone/iPad Tutorial
+🎥 [Video Tutorial](https://youtu.be/CD08NKz9sOE)
 
----
+1. Install the Focus app from the App Store.
+2. Open Focus.
+3. Tap on the 3 lines at the bottom right.
+4. Tap on Script (</>).
+5. Tap on the 3 dots at the top right.
+6. Select Import from URL.
+7. Copy and paste this link: [https://api.nexusbot.net/nexus.user.js](https://api.nexusbot.net/nexus.user.js) and press Save.
+8. Go to the dashboard where all of your classes are shown, and the menu should ask you for your license key. Copy and paste the entire key, including Nexus-
 
-## Getting Started 🚀  
+### Troubleshooting
+- The menu is not showing up.
+  - If on computer, make sure that Developer Mode is enabled in your browser's extensions page.
+  - Try restarting your browser and/or device.
+- The menu says the key is Invalid/Expired.
+  - Make sure to input the entire license key. For example, if my license key was "Nexus-1d-abcdef", I would put "Nexus-1d-abcdef" into the box.
+- It's getting all the answers wrong.
+  - This is as intended if you have Auto Ungraded enabled as it automatically guesses for assignments that are only a completion grade.
+  - On classes that have "ex", our AI has a tendency to be incorrect. We apologize for the inconvenience, and we are working on improving it.
+- How do I get the menu to start doing my classes?
+  - If you have all the features you want enabled, just press Next Activity on a class on the classes dashboard.
+  - If you don't know what any of the features does, import a config from the configs channel in our [Discord server](https://discord.gg/nexusbot).
 
-- [📺 Watch the Desktop Setup Tutorial](https://streamable.com/lcj3fo)  
-- [📱 Mobile Setup Guide](https://youtu.be/CD08NKz9sOE)  
+## FAQ ❓
+**Q: Does Nexus work on mobile?**  
+A: Yes! Nexus works on mobile using the Focus Userscripts app. You can find more info on how to set this up above.
 
-Full setup steps are on our [website documentation](https://nexusbot.net).  
+**Q: Will my school know if I’m using Nexus?**  
+A: At this moment, Nexus is undetectable by Imagine Learning and Edgenuity. Furthermore, Nexus has built-in delays, but using an Edgenuity bot always carries risk. Use responsibly.
 
----
+**Q: Do I get free updates after purchase?**  
+A: Yes! All purchases include lifetime updates and access to new features.
 
-## FAQ ❓  
+## Support 💬
+- Join our [Discord Server](https://discord.gg/nexusbot)  
+- Email: **admin@nexusbot.net**  
+- Ticket system available in Discord for any sort of help you need!
 
-**Q: Does Nexus really work on Edgenuity?**  
-Yes! Nexus is designed specifically as an **Edgenuity bot** and supports EdgeEx as well.  
+## Credits
+- Development by **Luck**.  
+- Inspired by other Edgenuity projects: EdgyPro, Revolt, and Exodus. ❤️
 
-**Q: Is it safe to use?**  
-Nexus is built with customizable delays and privacy features, but any bot use may carry risk. Use responsibly.  
+## Disclaimer
+Nexus is not affiliated with, endorsed by, or associated with Edgenuity, EdgeEx, or Imagine Learning. Any references are for descriptive and compatibility purposes only.
+Use of this software may violate the Terms of Service of the online platforms it interacts with. By continuing, you accept full responsibility for any consequences.
 
-**Q: Do I get updates for free?**  
-Yes. Every purchase includes lifetime updates.  
-
----
-
-## Support 💬  
-
-- Join our [Discord Server](https://discord.gg/nexusbot) for support & configs  
-- Email: **admin@nexusbot.net**
-
----
-
-## Disclaimer  
-
-Nexus is an independent project. It is **not affiliated with Edgenuity, EdgeEx, or Imagine Learning**. Use at your own discretion.  
+> *“I love you all, stay infinite.”* – Luck  
